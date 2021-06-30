@@ -1,3 +1,3 @@
 # test
 
-https://github.com/KolkoHazard/test
+https://kolkohazard.github.io/test/
